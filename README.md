@@ -2,7 +2,7 @@
 
 this project is only with python and sql 
 
-first of all u need python
+first of all u need python and
 for database I used MySQL Workbench
 
 << u can watch how to create mysql account on youtube >> 
